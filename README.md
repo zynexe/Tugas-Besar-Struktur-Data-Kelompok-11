@@ -1,7 +1,7 @@
 # Tugas-Besar-Struktur-Data-Kelompok-11
 ## Anggota Kelompok
--Muhammad Raffa Zuhayr (1302210068)
--Muhammad yaasin Rafi (1302210055)
+- Muhammad Raffa Zuhayr (1302210068)
+- Muhammad yaasin Rafi (1302210055)
 
 ## Studi Kasus
 Pada rumah sakit dibutuhkan sebuah sistem yang mengkoleksi data pasien serta ruangan yang tersedia di rumah sakit tersebut. Sistem digunakan untuk melacak ketersediaan kamar dan informasi pasien. Sistem ini digunakan dengan harapan secara signifikan meningkatkan akurasi dan kecepatan entri data, memungkinkan staf rumah sakit mengelola perawatan pasien dengan lebih baik.
