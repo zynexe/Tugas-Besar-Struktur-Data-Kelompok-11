@@ -11,12 +11,12 @@ Pada rumah sakit dibutuhkan sebuah sistem yang mengkoleksi data pasien serta rua
 ## Spesifikasi
 
 - Rumah Sakit
-  Nama Ruang()
-  No Ruang()
+Nama Ruang()
+No Ruang()
 - Pasien
-  Nama Pasien()
-  ID Pasien()
-  Keluhan Pasien()
+Nama Pasien()
+ID Pasien()
+Keluhan Pasien()
 
 ### listRuangan(Parent)
 
