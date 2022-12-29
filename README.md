@@ -10,13 +10,13 @@ Pada rumah sakit dibutuhkan sebuah sistem yang mengkoleksi data pasien serta rua
 ![a0eeabb1-6de3-4173-94be-a8d597f4651a](https://user-images.githubusercontent.com/101196498/209756871-cf9f7238-1a2f-4c38-8851-c5d938c5d54d.jpg)
 ## Spesifikasi
 
-- Rumah Sakit
-Nama Ruang()
-No Ruang()
-- Pasien
-Nama Pasien()
-ID Pasien()
-Keluhan Pasien()
+## Rumah Sakit
+- Nama Ruang()
+- No Ruang()
+## Pasien
+- Nama Pasien()
+- ID Pasien()
+- Keluhan Pasien()
 
 ### listRuangan(Parent)
 
