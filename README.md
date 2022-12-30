@@ -7,7 +7,7 @@
 Pada rumah sakit dibutuhkan sebuah sistem yang mengkoleksi data pasien serta ruangan yang tersedia di rumah sakit tersebut. Sistem digunakan untuk melacak ketersediaan kamar dan informasi pasien. Sistem ini digunakan dengan harapan secara signifikan meningkatkan akurasi dan kecepatan entri data, memungkinkan staf rumah sakit mengelola perawatan pasien dengan lebih baik.
 
 ## ilustrasi
-![a0eeabb1-6de3-4173-94be-a8d597f4651a](https://user-images.githubusercontent.com/101196498/209756871-cf9f7238-1a2f-4c38-8851-c5d938c5d54d.jpg)
+![image](https://user-images.githubusercontent.com/101196498/210037185-6135c301-f259-4eea-a885-777132929d48.png)
 ## Spesifikasi
 
 
