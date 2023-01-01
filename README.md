@@ -16,9 +16,12 @@ Pada rumah sakit dibutuhkan sebuah sistem yang mengkoleksi data pasien serta rua
 - No Ruang()
 
 ### listPasien(Child)
-- Nama Pasien()
-- ID Pasien()
-- Keluhan Pasien()
+- createPasien();
+- createElementPasien()
+- insertLastPasien()
+- showPasien()
+- deleteLastPasien()
+- searchPasien()
 
 ### Function
 
