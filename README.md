@@ -16,7 +16,9 @@ Pada rumah sakit dibutuhkan sebuah sistem yang mengkoleksi data pasien serta rua
 - No Ruang()
 
 ### listPasien(Child)
-- 
+- Nama()
+- idPasien()
+- keluhan()
 
 ### Function
 
