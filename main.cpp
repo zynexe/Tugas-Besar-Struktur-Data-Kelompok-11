@@ -1,4 +1,4 @@
-#include "datapasien.h"
+#include "data_pasien.h"
 #include <iostream>
 
 
