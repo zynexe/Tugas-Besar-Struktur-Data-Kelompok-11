@@ -16,13 +16,22 @@ Pada rumah sakit dibutuhkan sebuah sistem yang mengkoleksi data pasien serta rua
 - No Ruang()
 
 ### listPasien(Child)
-- createPasien();
-- createElementPasien()
-- insertLastPasien()
-- showPasien()
-- deleteLastPasien()
-- searchPasien()
+- 
 
 ### Function
+
+- void createRuangan()
+- adrRuangan createElementRuangan()
+- void insertRuangan()
+- void showAll()
+- void deleteRuangan()
+- bool findRuangan()
+
+- void createPasien();
+- adr_pasien createElementPasien()
+- void insertLastPasien()
+- void showPasien()
+- void deleteLastPasien()
+- adr_pasien searchPasien()
 
 
