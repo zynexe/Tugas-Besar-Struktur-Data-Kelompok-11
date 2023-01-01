@@ -9,4 +9,6 @@ int main()
   List_P LP;
   List_R LR;
   
+  createPasien(LP)
+  createRuangan(LR)
 }
