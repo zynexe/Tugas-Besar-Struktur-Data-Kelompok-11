@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1672838040 source:d:\std tp\std tubes\main.cpp
+	"pasien.h"
+	<iostream>
+
+1672843664 source:d:\std tp\std tubes\pasien.cpp
+	"pasien.h"
+
+1672834839 d:\std tp\std tubes\pasien.h
+	<iostream>
+	<iostream>
+
